@@ -1,0 +1,15 @@
+{
+    "chainId": 101,
+    "address": "4odbvGLnD8R7ewo7KEcsommzCGFe4BhUxEUJ11cjnETY",
+    "symbol": "AtNuc",
+    "name": "Altnuc",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/ton-repo/token-list/main/assets/mainnet/4odbvGLnD8R7ewo7KEcsommzCGFe4BhUxEUJ11cjnETY/logo.png",
+    "tags": [
+        "utility-token"
+    ],
+    "extensions": {
+        "website": "",
+        "description": "le projet alt nuc mobile"
+    }
+}
